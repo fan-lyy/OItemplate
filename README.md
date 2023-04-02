@@ -1,5 +1,5 @@
 # OItemplate
-'''
+```cpp
 #include<bits/stdc++.h>
 using namespace std;
 #define maxn 100005
@@ -153,4 +153,4 @@ namespace datastruct
 		}  
 	#endif
 } 
-'''
+```
